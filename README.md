@@ -14,4 +14,4 @@ predictive_control_taylor    : predictive control, liearization using Taylor ser
 
 
 
-[1] Xie, Shengwen, and Juan Ren. "Recurrent-neural-network-based Predictive Control of Piezo Actuators for Precision Trajectory Tracking." 2019 American Control Conference (ACC). IEEE, 2019.
+[1] Xie, Shengwen, and Juan Ren. "Recurrent-neural-network-based Predictive Control of Piezo Actuators for Trajectory Tracking." IEEE/ASME Transactions on Mechatronics (2019).
