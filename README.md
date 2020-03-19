@@ -2,10 +2,12 @@
 #This project contains simulation codes for the paper "Discrete System Linearization using Koopman Operators for Predictive Control and Its Applications"
 
 Data:
+
 net12.mat    :   RNN model for the PEA system
 xstar_np.mat   : LME model mentioned in [1]
 
 Codes:
+
 prediction_accuracy  : compare the accuracy of linearization with Taylor series and Koopman operators
 predictive_control_koopman1  : predictive control, liearization using Koopman operators, one linear model 
 predictive_control_koopman2  : predictive control, liearization using Koopman operators, two linear models 
