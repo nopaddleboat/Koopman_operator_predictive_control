@@ -11,7 +11,7 @@ net12.mat    :   RNN model for the PEA system
 
 xstar_np.mat   : LME model mentioned in [1]
 
-These two models are generated with the real system input-output data with the method in [1].
+These two models are generated based on the real system input-output data with the method in [1].
 
 Codes:
 
