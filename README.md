@@ -3,7 +3,7 @@
 
 #All the codes are not commented, but they should be easy to follow with the paper aside.
 
-#Feel free to contact me through swxie@outlook.com if you have any quesitons regarding the code and paper.
+#Feel free to contact me through swxie@outlook.com if you have any questions regarding the code and paper.
 
 Data:
 
@@ -14,11 +14,11 @@ xstar_np.mat   : LME model mentioned in [1]
 Codes:
 
 prediction_accuracy  : compare the accuracy of linearization with Taylor series and Koopman operators
-predictive_control_koopman1  : predictive control, liearization using Koopman operators, one linear model 
-predictive_control_koopman2  : predictive control, liearization using Koopman operators, two linear models 
-predictive_control_taylor    : predictive control, liearization using Taylor series 
+predictive_control_koopman1  : predictive control, linearization using Koopman operators, one linear model 
+predictive_control_koopman2  : predictive control, linearization using Koopman operators, two linear models 
+predictive_control_taylor    : predictive control, linearization using Taylor series 
 
-
+#Note that the results generated from these codes may be different from the results reported in the paper, this is due to the characteristics of randomness in the method.
 
 
 [1] Xie, Shengwen, and Juan Ren. "Recurrent-neural-network-based Predictive Control of Piezo Actuators for Trajectory Tracking." IEEE/ASME Transactions on Mechatronics (2019).
