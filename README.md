@@ -1,4 +1,4 @@
- Koopman_operator_predictive_control\
+ Koopman_operator_predictive_control
 * This project contains simulation codes for the paper "Discrete System Linearization using Koopman Operators for Predictive Control and Its Applications"[2].\
 * All the codes are Not commented and NOT optimized, but they should be easy to follow with the paper aside.\
 * Feel free to contact me through swxie@outlook.com if you have any questions regarding the code and paper.
