@@ -1,5 +1,5 @@
 # Koopman_operator_predictive_control
-#This project contains simulation codes for the paper "Discrete System Linearization using Koopman Operators for Predictive Control and Its Applications"
+#This project contains simulation codes for the paper "Discrete System Linearization using Koopman Operators for Predictive Control and Its Applications"[2].
 
 #All the codes are Not commented and NOT optimized, but they should be easy to follow with the paper aside.
 
@@ -24,3 +24,4 @@ predictive_control_taylor    : predictive control, linearization using Taylor se
 
 
 [1] Xie, Shengwen, and Juan Ren. "Recurrent-neural-network-based Predictive Control of Piezo Actuators for Trajectory Tracking." IEEE/ASME Transactions on Mechatronics (2019).
+[2] Xie, Shengwen, and Juan Ren. "Linearization of Recurrent-neural-network-based models for Predictive Control of Nano-positioning Systems using Data-driven Koopman Operators" IEEE Access 2020 DOI:10.1109/ACCESS.2020.3013935.
