@@ -15,10 +15,10 @@ These two models are generated based on the real system input-output data with t
 
 Codes:
 
-prediction_accuracy  : compare the accuracy of linearization with Taylor series and Koopman operators
-predictive_control_koopman1  : predictive control, linearization using Koopman operators, one linear model 
-predictive_control_koopman2  : predictive control, linearization using Koopman operators, two linear models 
-predictive_control_taylor    : predictive control, linearization using Taylor series 
+prediction_accuracy  : compare the accuracy of linearization with Taylor series and Koopman operators\
+predictive_control_koopman1  : predictive control, linearization using Koopman operators, one linear model \
+predictive_control_koopman2  : predictive control, linearization using Koopman operators, two linear models \
+predictive_control_taylor    : predictive control, linearization using Taylor series \
 
 #Note that the results generated from these codes may be different from the results reported in the paper, this is due to the characteristics of randomness in the method.
 
